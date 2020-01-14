@@ -14,3 +14,6 @@ if ($operator == "+") {
 }else {
     echo("Voer een getal in!");
 }
+?>
+
+
