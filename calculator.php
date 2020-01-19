@@ -12,7 +12,7 @@ if ($operator == "+") {
     $uitkomst = ($getal1 - $getal2);
     echo($uitkomst);
 }else {
-    echo("Voer een getal in!");
+    echo("Voer een operator in!");
 }
 ?>
 
